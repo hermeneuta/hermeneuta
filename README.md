@@ -1,8 +1,11 @@
 ### Hi! 👋
 
 - 🔭 Working with:
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,linux,bash,latex,neovim,vscode&perline=4)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,linux,bash,latex,neovim,vscode&perline=6" />
+  </a>
+</p>
 
 <!--
 **hermeneuta/hermeneuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
