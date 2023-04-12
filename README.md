@@ -1,14 +1,8 @@
 ### Hi! 👋
 
-- 🔭 My area of interest
+- 🔭 My skills:
 
-![Html](https://img.shields.io/badge/-000000?style=for-the-logo&logo=html5&logoColor=#61DAFB)
-![Css](https://img.shields.io/badge/-000000?style=for-the-logo&logo=css3&logoColor=#61DAFB)
-![JS](https://img.shields.io/badge/-000000?style=for-the-logo&logo=JavaScript&logoColor=#F7DF1E)
-![React](https://img.shields.io/badge/-000000?style=for-the-logo&logo=React&logoColor=#61DAFB)
-![neovim](https://img.shields.io/badge/-000000?style=for-the-logo&logo=Neovim&logoColor=#57A143)
-![Node.js](https://img.shields.io/badge/-000000?style=for-the-logo&logo=node.js&logoColor=#61DAFB)
-![MongoDB](https://img.shields.io/badge/-000000?style=for-the-logo&logo=mongoDB&logoColor=#47A248)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,linux,bash,latex,neovim,vscode&perline=4)
 
 <!--
 **hermeneuta/hermeneuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
