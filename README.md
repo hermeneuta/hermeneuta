@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-- 🔭 Working with:
+- 🔭 I'm working with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,linux,bash,latex,neovim,vscode&perline=6" />
