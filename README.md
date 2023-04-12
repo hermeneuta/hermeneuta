@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-- 🔭 My skills:
+- 🔭 Working with:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,linux,bash,latex,neovim,vscode&perline=4)
 
