@@ -3,7 +3,7 @@
 - 🔭 I'm working with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,nodejs,git,linux,bash,latex,neovim,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,tailwind,ts,react,nextjs,nodejs,git,linux,bash,latex,neovim,vscode&perline=6" />
   </a>
 </p>
 
